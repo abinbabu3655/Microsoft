@@ -1,0 +1,239 @@
+.body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}.container{
+    margin-top: 0;
+    margin-left: 7.5%;
+    width: 85%;
+    height: 4000px;
+    display: flex;
+    flex-direction: column;
+
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    padding-inline-start: 1%;
+    padding-top: 0.5%;
+    justify-content: space-between;
+    background-color: white;
+}
+.titles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    width: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 25%;
+    justify-content: space-evenly
+
+}
+.box1{
+    width: 90.6%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    background-image: url(/Microsoft/img/one.png);
+    background-size: 100%;
+    padding-top: 90px;
+    padding-left: 150px;
+    margin: 0;
+    
+}
+#new{
+    background-color:#ffb900 ;
+    width: 70px;
+    height: 30PX;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.t1{
+    margin: 0;
+    padding-top: -20px;
+}
+.button1{
+    background-color: black;
+    width: 100PX;
+    height: 40px;
+    
+}
+.box2{
+    width: 100%;
+    height: 205px;
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: center;
+    
+}
+.box2-a{
+    margin-left: 10%;
+    width: 200px;
+    height: 140px;
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.box2-b{
+    width: 200px;
+    height: 140px;
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.box2-c{
+    width: 200px;
+    height: 140px;
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.box2-d{
+    width: 200px;
+    height: 140px;
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+}
+.box3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-left: -120px;
+}
+.button2{
+    background-color: white;
+    width: 100px;
+    height: 25px;
+}
+.box3-a{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 300px;
+}
+.new2{
+    width: 70px;
+    height: 30PX;
+    text-align: center;
+    padding-top: 10px;
+}
+.box3-b{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+}
+.box3-c{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+}
+.box3-d{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+}
+.box4{
+    width: 90.6%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    background-image: url(/Microsoft/img/four.png);
+    background-size: 100%;
+    padding-top: 90px;
+    padding-left: 150px;
+    margin-top: 100px;
+    
+}
+.box5{
+    width: 100%;
+    height: 205px;
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: center;
+    margin-left: -132px;
+    margin-top: 50PX;
+}
+.box5-a{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 300px;
+}
+.box5-b{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;height: auto;
+}
+.box5-c{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+}
+.box5-d{
+    padding-left: 130px;
+    padding-top: 65px;
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+
+}
+.box6{
+    width: 100px;;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100px;
+    margin-top: 300px;
+    padding-top: 30px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.box6-a{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.box6-b{
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+.box6-c{
+    padding-left: 10px;
+    margin-top: 4px;
+
+}
+.footer{
+    background-color: #e6e6e6;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: space-evenly;
+    height: 250px;
+    padding-top: 50px;
+}
